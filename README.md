@@ -1,7 +1,8 @@
 # Evaluador de Compromiso de Sesiones
 
 **UNAD · Fundamentos de Programación (213022) · Fase 5 – Evaluación Final POA · Problema 1**
-Autora: María Claudia Ramírez Wilches
+
+**Autora: María Claudia Ramírez Wilches**
 
 Programa en Python que clasifica el nivel de compromiso de las sesiones de clientes de una plataforma digital. Cada sesión se guarda en una matriz con el formato `[ID del cliente, Duración (segundos), Número de clics]`.
 
